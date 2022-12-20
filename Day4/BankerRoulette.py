@@ -1,3 +1,6 @@
+#https://www.askpython.com/python/string/convert-string-to-list-in-python
+#https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+
 import random
 
 # Split string method
