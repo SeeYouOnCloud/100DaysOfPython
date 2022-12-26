@@ -5,6 +5,9 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
 #fetch the items using index number(programmers start counting from 0)
 print(states_of_america[0])
 
+#find out length of list
+print(len(states_of_america))
+
 #-1 will start counting from end
 print(states_of_america[-1])
 
